@@ -5,7 +5,5 @@
 - Course: CPSC 408 Database
 - Assignment 1: sqlite
 
-2) Errors:
-
 ### References
 - https://www.w3schools.com/python/ref_func_all.asp
